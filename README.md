@@ -10,9 +10,9 @@ More details on run_analysis.R
 
 The code is commented, but this is what it does...
 
-It begins by downloading the zip file, so comment out lines 2-4 if it's already been downloaded to your working directory.
+It begins by downloading the zip file, so comment out lines 4-6 if it's already been downloaded to your working directory.
 
-Next, it unzips the file, so you can also comment out line 7 if you have already done that.
+Next, it unzips the file, so you can also comment out line 9 if you have already done that.
 
 Next it loads 8 text files into 8 dataframes which all retain their original names, the main two being X_test and X_train
 
